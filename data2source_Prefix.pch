@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'data2source' target in the 'data2source' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
