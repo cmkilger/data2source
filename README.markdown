@@ -4,7 +4,7 @@ data2source converts any file into Objective-C source files (".h" and ".m").  Th
 
 ##Usage
 
-data2source <path/to/file> <path/to/output> [functionName]
+data2source _filepath_ _outputpath_ [functionName]
 
 The ".h" and ".m" extensions will be appended to the output path.
 
